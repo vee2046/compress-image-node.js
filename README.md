@@ -12,5 +12,9 @@ node.js compress image
 
 得到的结果是![image](./result.png)
 
+## 文件结构
+| index.js      起动文件
+| image.js      功能类
+
 ## 文档
 [gm](https://www.npmjs.com/package/gm)
