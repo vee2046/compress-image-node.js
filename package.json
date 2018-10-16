@@ -1,0 +1,25 @@
+{
+  "name": "compress-image-node",
+  "version": "1.0.0",
+  "description": "node.js compress image",
+  "main": "index.js",
+  "dependencies": {
+    "gm": "^1.23.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vee2046/compress-image-node.js.git"
+  },
+  "author": "LucyWu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vee2046/compress-image-node.js/issues"
+  },
+  "homepage": "https://github.com/vee2046/compress-image-node.js#readme"
+}
