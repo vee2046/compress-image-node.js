@@ -11,4 +11,4 @@ node.js compress image
 得到的结果是![image](./result.png)
 
 ## 文档
-(https://www.npmjs.com/package/gm)[gm]
+[https://www.npmjs.com/package/gm](gm)
